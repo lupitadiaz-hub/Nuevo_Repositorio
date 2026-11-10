@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="185e603f-ea6c-4ec1-9a97-3edb047b0aae" name="Changes" comment="agrego usuario login para pruebas de usuario" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="usuario_login" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="usuario_login" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lupitadiaz-hub&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lupitadiaz-hub/Nuevo_Repositorio&quot;,
+    &quot;accountId&quot;: &quot;cd65ee5b-4c7e-4ead-8b6d-a9dac78717b6&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0036258790733137" />
+      <entry key="MS500" value="1.6037981116402102" />
+      <entry key="S2" value="4.5328322999700355" />
+      <entry key="S5" value="7.826213405216521" />
+      <entry key="S10" value="10.18385815625358" />
+      <entry key="S30" value="15.144845084635353" />
+      <entry key="S60" value="20.050429390840012" />
+      <entry key="M2" value="25.285921527193405" />
+      <entry key="M5" value="31.017239201870172" />
+      <entry key="M10" value="35.9981605868784" />
+      <entry key="M15" value="39.32737318576337" />
+      <entry key="M30" value="44.543940943075754" />
+      <entry key="H1" value="48.25057664854579" />
+      <entry key="H2" value="50.47666506133331" />
+      <entry key="H4" value="51.69860960583175" />
+      <entry key="D1" value="52.777352042835716" />
+      <entry key="W1" value="52.96804920829544" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9761823568243471" />
+      <entry key="MS500" value="1.5940224543320483" />
+      <entry key="S2" value="4.509725194478675" />
+      <entry key="S5" value="7.806037333680659" />
+      <entry key="S10" value="10.164108989912704" />
+      <entry key="S30" value="15.116966317126689" />
+      <entry key="S60" value="20.027472353479006" />
+      <entry key="M2" value="25.270988626137058" />
+      <entry key="M5" value="31.010208089999004" />
+      <entry key="M10" value="35.99442932579791" />
+      <entry key="M15" value="39.32482880834875" />
+      <entry key="M30" value="44.542635726929646" />
+      <entry key="H1" value="48.24991448563033" />
+      <entry key="H2" value="50.4763313740157" />
+      <entry key="H4" value="51.698442079172665" />
+      <entry key="D1" value="52.77732402395526" />
+      <entry key="W1" value="52.96804520316426" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Lv0qa8UNNNe8z53SL7KckZoOhM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="185e603f-ea6c-4ec1-9a97-3edb047b0aae" name="Changes" comment="" />
+      <created>1794319426004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794319426004</updated>
+      <workItem from="1794319427009" duration="2223000" />
+      <workItem from="1794321655977" duration="510000" />
+    </task>
+    <task id="LOCAL-00001" summary="Añadir comprobación de acceso y llamadas de ejemplo">
+      <option name="closed" value="true" />
+      <created>1794319948613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794319948613</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cambios en usuario login">
+      <option name="closed" value="true" />
+      <created>1794321303189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794321303189</updated>
+    </task>
+    <task id="LOCAL-00003" summary="agrego usuario login para pruebas de usuario">
+      <option name="closed" value="true" />
+      <created>1794321869438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794321869438</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Añadir comprobación de acceso y llamadas de ejemplo" />
+    <MESSAGE value="cambios en usuario login" />
+    <MESSAGE value="agrego usuario login para pruebas de usuario" />
+    <option name="LAST_COMMIT_MESSAGE" value="agrego usuario login para pruebas de usuario" />
+  </component>
+</project>
